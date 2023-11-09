@@ -1,0 +1,92 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:black;
+    top:0%;
+  }
+  
+  li {
+    float: left;
+  }
+  li form{
+    float: right;
+    display: block;
+    padding: 14px 16px;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color:gray;
+  }
+  #hero{
+    text-align:center;
+    padding: 100px 0px;
+    background-image: url('https://thumbs.dreamstime.com/b/top-view-worktable-accessories-business-flat-lay-background-copy-space-180807541.jpg');
+    background-size: cover;
+
+  }
+  #hero .cta-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #0099cc;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+  #details li{
+    float:left;
+    display: block;
+    color: aqua;
+    text-align: center;
+    padding: 44px 100px;
+
+
+  }
+  #aboutus p{
+    text-align: left;
+    
+  }
+  .image-container{
+    display: flex;
+    justify-content: center;
+
+  }
+  .image-container img{
+    margin: 0px;
+    padding: 14px 16px 60px 60px;
+  }
+  #aboutus{
+    background-image: url('https://static.vecteezy.com/system/resources/thumbnails/001/958/544/small/outline-world-map-and-continents-with-dots-vector.jpg');
+
+}
+  #ourservices{
+    background-image: url('https://static.vecteezy.com/system/resources/thumbnails/001/958/544/small/outline-world-map-and-continents-with-dots-vector.jpg');
+background-repeat: no-repeat; 
+}
+  
+  #contact li{
+    color:aliceblue;
+    padding: 14px 16px;
+    float:left;
+  }
+  #contact h2{
+    color:aliceblue;
+    
+  }
+  #contact footer{
+    color:white;
+    text-align: right;
+    padding:1px 1px 0px 0px;
+  
+  }
