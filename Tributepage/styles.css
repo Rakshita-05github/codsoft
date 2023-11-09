@@ -1,0 +1,61 @@
+body {
+    background-color:rgb(182, 145, 99);
+    margin: 0px;
+    border: 0px;
+  }
+  
+  .container {
+    border: 10px solid rgb(4, 4, 37);
+    display: flex;
+  }
+  .container h1{
+    text-align: center;
+  }
+  
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 20%;
+      }
+  
+  .last-section{
+    font-size: 16px;
+    font-family: "Times New Roman", Times, serif;
+    line-height: 30px;
+    word-spacing : 1px;
+    padding : 20px ;
+    
+  }
+  
+  .middle-section{
+    padding: 10px;
+  }
+  .middle-section h2{
+    font-size: 40px;  
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 2px;
+  }
+  p{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 30px;
+    word-spacing: 10%;  
+    letter-spacing: 0.60px;
+  }
+  .list-box{
+    border: 1px solid #000;
+            padding: 30px 60px 40px 60px;
+            margin: auto;
+            border-radius: 5px;
+            background-color:aliceblue;
+            background-size: cover;
+            width: 50%;
+            display: flex;
+            background-image: url('https://t4.ftcdn.net/jpg/01/67/85/53/360_F_167855398_VPH1cPQYLTQORj7y1eQGuJ6All4l7v1S.jpg');
+            background-position: 75%;
+  }
+  
+  footer p{
+    text-align:end;
+  }
