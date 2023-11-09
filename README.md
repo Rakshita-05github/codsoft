@@ -11,7 +11,7 @@ Implementation of Level 1 Projects
 
 Implementation of level 2 Project
 
--Task 1:[Tribute Page](https://rakshita-05github.github.io/codsoft/Tributepage/Tributepage.html)
+-Task 1: [Tribute Page](https://rakshita-05github.github.io/codsoft/Tributepage/Tributepage.html)
 
 
  
